@@ -16,7 +16,8 @@
         -index.js  
       -->styles  
         -index.styles.css  
-      -index.html  
+      -index.html
+  -.gitignore
   -config.js  
   -package-lock.json  
   -package.json  
